@@ -3,7 +3,7 @@
 
 Using artificial intelligence and deep learning technology to create the attendance system, directly using the network video streaming protocol to obtain the image and work, the number of people in the picture and whether the face is straight do not do strict requirements.
 
-基于人工智能和深度学习技术打造的考勤系统，直接使用网络视频流协议获取图像和工作，对图片中的人数以及脸部是否直不做严格要求。
+基于人工智能和深度学习技术打造的考勤系统，直接使用网络视频流协议获取图像和工作，对图片中的人数以及面部是否正脸不做严格要求。
 
 This repository reference YOLOv5 (https://github.com/ultralytics/yolov5), Deep SortAlgorithm (https://github.com/ZQPei/deep_sort_pytorch) and libfacedetection functionality (https://github.com/ShiqiYu/libfacedetection).
 
